@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helps by showing the lines where differences occur.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It helps me find the errors in new version and possibly go back to the older version.
+    At least I always have a version with no bug.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    By creating it mannually, the user can decide exactly when to commit.
+    So the commits are more meaningful and not so many unnecessary commits are created.
+    On the other hand, it's possible that user may create too many changes before commit
+    By doing it automatically, user can track the entire history of versions.
+    On the other hand, too many unnecessary commits could be created since the change is so tiny
+    In this way, it's hard to read and compare so many commits.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Sometimes the change may affect more than one file.
+    So in this situation it makes more sense to save all these files in one commit.
+    Saving them separately requires more effort from user to check them one by one. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    By typing git log in command line, a list of commit will be shown up.
+    Then type git diff id1 id2, where id1 is the older commit id and id2 is the newer commit id. By this way, we can compare two commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    So I can use git check to go back to previous version and see in which commit the bug was introduced.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
