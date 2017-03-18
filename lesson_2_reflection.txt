@@ -32,6 +32,8 @@ When you don't want to touch the main branch profile, but still would like to ma
 
 5. How do the diagrams help you visualize the branch structure?
 
+It helps me to see different branches so I could easily figure out the timeline of all commits. I could figure out why one commit could not be touched by another commit. I could also see which commit I am currenly running.
+
 6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
