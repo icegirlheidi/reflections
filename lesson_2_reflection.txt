@@ -23,6 +23,8 @@ Staging area is like a buffer between working directory and repository. In stagi
 3. How can you use the staging area to make sure you have one commit per logical
 change?
 
+If two or three files are closely related to each other, then I will put all of them to staging area at first, and then make one commit which contains all three files.
+
 4. What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
