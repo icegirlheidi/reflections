@@ -39,4 +39,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I would like to use it to keep track of my project while I'm working on it
