@@ -5,3 +5,8 @@ When I need to share my work with others or when I need to work together with ot
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 So I could update my local repository based on logic rather than every tiny difference. At the same time, I could make sure it's a working version.
+
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+When I want to copy over github, it's called forks. When I want to pull files from github to my local, then it's called clones. In my local computer, I can also clone. In my local computer, when I create different routes besides master, then it's called branches.
