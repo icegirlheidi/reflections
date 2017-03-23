@@ -10,3 +10,7 @@ So I could update my local repository based on logic rather than every tiny diff
 3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 When I want to copy over github, it's called forks. When I want to pull files from github to my local, then it's called clones. In my local computer, I can also clone. In my local computer, when I create different routes besides master, then it's called branches.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So after you make new commit locally, you can push your commit to github. And also if someone else commits and pushes to remote, you can pull it to your local files.
