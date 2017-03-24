@@ -14,3 +14,7 @@ When I want to copy over github, it's called forks. When I want to pull files fr
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So after you make new commit locally, you can push your commit to github. And also if someone else commits and pushes to remote, you can pull it to your local files.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or GitHub, I may collaborate with others through online chatting and Google doc. With them, I could collaborate with others through pushing and pulling files between GitHub and my local computer. It seems using GitHub makes life easier.
