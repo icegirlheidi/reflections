@@ -18,3 +18,9 @@ So after you make new commit locally, you can push your commit to github. And al
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Without Git or GitHub, I may collaborate with others through online chatting and Google doc. With them, I could collaborate with others through pushing and pulling files between GitHub and my local computer. It seems using GitHub makes life easier.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I want to make changes in my local computer while not affecting the master branch in remote. And it's also possible when several contributers make different changes in their local file separately and want to merge with master branch afte a while. 
+
+Working with only master branch makes it easier without considering merging. Working with branches and master branch at the same time makes sure that contributers won't break down master branch and at least master branch is always working in remote.
